@@ -2,7 +2,7 @@
 
 ---
 
-## Problem Statement ~
+## Problem Statement
 
 We often do you get stuck thinking about the name of a dog’s breed. There are many dog breeds and most of them are similar to each other. Can we use a dog breeds dataset and build a Deep
 Learning model that will classify different dog breeds from an image. Use Convolutional Neural Networks to build the model.
